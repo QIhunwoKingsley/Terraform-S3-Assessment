@@ -6,3 +6,4 @@
     Created the terraform codes and files in VSC.
     Initialized Terraform, logged into my AWS console, and created a user account.
     Made changes to the terraform files, plan and apply and saved codes in repo.
+    ![Alt text](https://github.com/QIhunwoKingsley/Terraform-S3-Assessment/blob/main/images/IAM%201.png)
